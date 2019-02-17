@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.1",
-    "signature": "3cba7310bd5a415960dd67be5acaadef60702bd8"
+    "signature": "cf16f1fd0f6ff4720bf14994d466bfaed2296f15"
   },
   "compilationOptions": {},
   "targets": {
@@ -12,6 +12,7 @@
           "Selenium.Firefox.WebDriver": "0.23.0",
           "Selenium.Support": "3.141.0",
           "Selenium.WebDriver": "3.141.0",
+          "SpecFlow": "2.4.1",
           "xunit": "2.4.1",
           "xunit.runner.visualstudio": "2.4.1"
         },
@@ -404,6 +405,12 @@
             "assemblyVersion": "3.141.0.0",
             "fileVersion": "3.141.0.0"
           }
+        }
+      },
+      "SpecFlow/2.4.1": {
+        "dependencies": {
+          "Newtonsoft.Json": "10.0.3",
+          "System.ValueTuple": "4.3.0"
         }
       },
       "System.AppContext/4.1.0": {
@@ -900,6 +907,13 @@
           "System.Runtime.Handles": "4.3.0"
         }
       },
+      "System.ValueTuple/4.3.0": {
+        "dependencies": {
+          "System.Collections": "4.3.0",
+          "System.Resources.ResourceManager": "4.3.0",
+          "System.Runtime": "4.3.0"
+        }
+      },
       "System.Xml.ReaderWriter/4.3.0": {
         "dependencies": {
           "System.Collections": "4.3.0",
@@ -1149,6 +1163,13 @@
       "sha512": "sha512-wPqzXO3f79DzqauTZSzLMKiaBCN0Z2Mv7KvWP+hnV6EL88zh/pJJnFtdIR1X5wa3hsTOpF/bBJs45rz7kArsiA==",
       "path": "selenium.webdriver/3.141.0",
       "hashPath": "selenium.webdriver.3.141.0.nupkg.sha512"
+    },
+    "SpecFlow/2.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OLOkhWsglCCPXEkXIubEPqtZ082OQBKNO1S3TIlgcxxSLv6hUgL5aTRXDCPIKUvVzGJtj23Bt8yqHDELA6ZTOQ==",
+      "path": "specflow/2.4.1",
+      "hashPath": "specflow.2.4.1.nupkg.sha512"
     },
     "System.AppContext/4.1.0": {
       "type": "package",
@@ -1506,6 +1527,13 @@
       "sha512": "sha512-IMXgB5Vf/5Qw1kpoVgJMOvUO1l32aC+qC3OaIZjWJOjvcxuxNWOK2ZTWWYXfij22NHxT2j1yWX5vlAeQWld9vA==",
       "path": "system.threading.threadpool/4.0.10",
       "hashPath": "system.threading.threadpool.4.0.10.nupkg.sha512"
+    },
+    "System.ValueTuple/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cNLEvBX3d6MMQRZe3SMFNukVbitDAEpVZO17qa0/2FHxZ7Y7PpFRpr6m2615XYM/tYYYf0B+WyHNujqIw8Luwg==",
+      "path": "system.valuetuple/4.3.0",
+      "hashPath": "system.valuetuple.4.3.0.nupkg.sha512"
     },
     "System.Xml.ReaderWriter/4.3.0": {
       "type": "package",
