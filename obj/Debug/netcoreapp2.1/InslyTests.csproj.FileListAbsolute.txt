@@ -1,0 +1,14 @@
+/home/daryna/Desktop/InslyTestsDemo/inlsy/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/daryna/Desktop/InslyTestsDemo/inlsy/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/home/daryna/Desktop/InslyTestsDemo/inlsy/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/home/daryna/Desktop/InslyTestsDemo/inlsy/bin/Debug/netcoreapp2.1/InslyTests.deps.json
+/home/daryna/Desktop/InslyTestsDemo/inlsy/bin/Debug/netcoreapp2.1/InslyTests.runtimeconfig.json
+/home/daryna/Desktop/InslyTestsDemo/inlsy/bin/Debug/netcoreapp2.1/InslyTests.runtimeconfig.dev.json
+/home/daryna/Desktop/InslyTestsDemo/inlsy/bin/Debug/netcoreapp2.1/InslyTests.dll
+/home/daryna/Desktop/InslyTestsDemo/inlsy/bin/Debug/netcoreapp2.1/InslyTests.pdb
+/home/daryna/Desktop/InslyTestsDemo/inlsy/obj/Debug/netcoreapp2.1/InslyTests.csprojAssemblyReference.cache
+/home/daryna/Desktop/InslyTestsDemo/inlsy/obj/Debug/netcoreapp2.1/InslyTests.csproj.CoreCompileInputs.cache
+/home/daryna/Desktop/InslyTestsDemo/inlsy/obj/Debug/netcoreapp2.1/InslyTests.AssemblyInfoInputs.cache
+/home/daryna/Desktop/InslyTestsDemo/inlsy/obj/Debug/netcoreapp2.1/InslyTests.AssemblyInfo.cs
+/home/daryna/Desktop/InslyTestsDemo/inlsy/obj/Debug/netcoreapp2.1/InslyTests.dll
+/home/daryna/Desktop/InslyTestsDemo/inlsy/obj/Debug/netcoreapp2.1/InslyTests.pdb
