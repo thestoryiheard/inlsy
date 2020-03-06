@@ -1,4 +1,4 @@
-using Xunit;
+﻿using Xunit;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Firefox;
 using OpenQA.Selenium.Support.UI;
@@ -8,10 +8,13 @@ using OpenQA.Selenium.Interactions;
 namespace InslyTests
 {
     #region Insly tests definition 
-    public class InslyTestsTest
+    public class SignUpPageTests
     {
+        static void Main()
+        {
+        }
         [Fact]
-        public void SignUpTest()
+        public void SignUp()
         {
             using (IWebDriver driver = new FirefoxDriver())
             {
@@ -116,11 +119,6 @@ namespace InslyTests
                 var dataProcessing = driver.FindElement(By.Id("agree_data_processing"));
                 actions.Click();
                  */
-
-
-
-
-
             }
 
         }

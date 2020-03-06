@@ -1,4 +1,4 @@
-using Xunit;
+﻿using Xunit;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Firefox;
 using OpenQA.Selenium.Support.UI;
@@ -7,6 +7,10 @@ using OpenQA.Selenium.Interactions;
 
 namespace InslyTests
 {
+    public static void Main()
+    {
+
+    }
     #region Insly tests definition 
     public class InslyTestsTest
     {
@@ -116,11 +120,6 @@ namespace InslyTests
                 var dataProcessing = driver.FindElement(By.Id("agree_data_processing"));
                 actions.Click();
                  */
-
-
-
-
-
             }
 
         }

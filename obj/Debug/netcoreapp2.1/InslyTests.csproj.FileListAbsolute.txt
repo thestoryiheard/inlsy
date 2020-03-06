@@ -12,3 +12,5 @@
 /home/daryna/Desktop/InslyTestsDemo/inlsy/obj/Debug/netcoreapp2.1/InslyTests.AssemblyInfo.cs
 /home/daryna/Desktop/InslyTestsDemo/inlsy/obj/Debug/netcoreapp2.1/InslyTests.dll
 /home/daryna/Desktop/InslyTestsDemo/inlsy/obj/Debug/netcoreapp2.1/InslyTests.pdb
+C:\git\inlsy\obj\Debug\netcoreapp2.1\InslyTests.dll
+C:\git\inlsy\obj\Debug\netcoreapp2.1\InslyTests.pdb
