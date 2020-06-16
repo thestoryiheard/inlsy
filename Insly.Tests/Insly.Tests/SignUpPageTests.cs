@@ -4,16 +4,21 @@ using OpenQA.Selenium.Firefox;
 using OpenQA.Selenium.Support.UI;
 using System.Collections.Generic;
 using OpenQA.Selenium.Interactions;
+using OpenQA.Selenium.Remote;
+using System;
 
-namespace InslyTests
+namespace Insly.Tests
 {
     #region Insly tests definition 
     public class SignUpPageTests
     {
+
         static void Main()
         {
         }
+
         [Fact]
+        [Trait("Category", "Smoke")]
         public void SignUp()
         {
             using (IWebDriver driver = new FirefoxDriver())
